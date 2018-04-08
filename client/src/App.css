@@ -1,0 +1,65 @@
+.App h1 {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-header {
+  background-color: #8a00b4;
+  color: white;
+  height: 150px;
+  padding: 20px;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App h2 {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.App ol {
+  text-align: left;
+}
+
+.App-things-to-do {
+  margin: 10px;
+}
+
+.App-s3-image {
+  margin: 10px;
+}
+
+.App-s3-image img {
+  height: 100px;
+  width: 100px;
+}
+
+.App-current-time {
+  margin: 10px;
+}
+
+.App-wombat-question {
+  margin: 10px;
+}
+
+.App-missing {
+  color: red;
+  font-weight: bold;
+  margin: 10px;
+}
